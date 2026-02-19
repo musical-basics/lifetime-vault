@@ -5,8 +5,7 @@ const rows = [
     title: "The Complete Piano Course",
     value: "$320 Value",
     body: "My flagship masterclass system. Learn the exact techniques I use to tackle the hardest romantic repertoire.",
-    image:
-      "https://images.unsplash.com/photo-1516280440502-86105f9630e6?q=80&w=2070&auto=format&fit=crop",
+    image: "/pianisthands.jpg",
     imageAlt: "Piano keys close-up",
   },
   {
